@@ -1,0 +1,2 @@
+# rootstartcompany
+Technical stuff
